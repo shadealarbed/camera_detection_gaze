@@ -18,6 +18,12 @@ To use this project, follow these steps:
     cd camera_detection_gaze
     ```
 
+3. **Download the shape_predictor_68_face_landmarks.dat:**
+
+    ```bash
+    https://github.com/tzutalin/dlib-android/raw/master/data/shape_predictor_68_face_landmarks.dat
+    ```
+
 3. **Install the required libraries by running:**
 
     ```bash
