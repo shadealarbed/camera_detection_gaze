@@ -45,5 +45,18 @@ To use this project, follow these steps:
 After completing the setup, you can interact with the camera detection gaze system. Make sure to follow any additional instructions or configurations mentioned in the project documentation.
 
 ```python
+
+https://github.com/shadealarbed/camera_detection_gaze/assets/82084137/ab936b3b-aa4c-48fa-afc0-05c6eb57e299
+
+
 # Example code or usage
 python main_example.py
+```
+
+Demo:
+
+
+
+https://github.com/shadealarbed/camera_detection_gaze/assets/82084137/e1ae5b2b-16a0-4535-bcb5-5f31a66e413e
+
+
