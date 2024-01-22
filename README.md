@@ -57,6 +57,4 @@ Demo:
 
 
 
-https://github.com/shadealarbed/camera_detection_gaze/assets/82084137/e1ae5b2b-16a0-4535-bcb5-5f31a66e413e
-
 
