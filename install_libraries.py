@@ -3,7 +3,7 @@
 import subprocess
 
 def install_libraries():
-    libraries = ['opencv-python', 'dlib', 'numpy','cmake']
+    libraries = ['opencv-python', 'dlib', 'numpy','cmake','psutil']
 
     for lib in libraries:
         try:
