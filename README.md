@@ -24,7 +24,7 @@ To use this project, follow these steps:
     https://github.com/tzutalin/dlib-android/raw/master/data/shape_predictor_68_face_landmarks.dat
     ```
 
-3. **Install the required libraries by running:**
+4. **Install the required libraries by running:**
 
     ```bash
     python install_libraries.py
@@ -32,7 +32,7 @@ To use this project, follow these steps:
 
    This will ensure that all necessary dependencies are installed.
 
-4. **Run the Main Example:**
+5. **Run the Main Example:**
 
     ```bash
     python main_example.py
